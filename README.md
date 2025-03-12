@@ -1,4 +1,5 @@
 Template de Pré-Projeto de TCC - Curso de Sistemas de Informação - UFAL 🎓
+
 Este repositório contém um template em LaTeX para o pré-projeto de TCC (Trabalho de Conclusão de Curso) do curso de Sistemas de Informação da Universidade Federal de Alagoas (UFAL).
 O template foi desenvolvido para atender às normas e diretrizes exigidas pelo curso e facilitar a elaboração do seu pré-projeto. 📄
 
